@@ -1,3 +1,4 @@
+import { assetPath } from "./assetPath";
 import { galleryPageContent, galleryPreviewItems } from "./galleryImages";
 
 export const siteContent = {
@@ -15,7 +16,7 @@ export const siteContent = {
     subtitle: "A flagship RCY NTU initiative celebrating the contributions of migrant workers in Singapore.",
     primaryAction: { label: "Partner With Us", href: "#contact" },
     secondaryAction: { label: "View Highlights", href: "./gallery.html" },
-    image: "/images/hero/project-iappreciate-hero.jpg",
+    image: assetPath("/images/hero/project-iappreciate-hero.jpg"),
     floatingCards: [
       { title: "600+ participants" },
       { title: "Annual flagship project" },
@@ -29,7 +30,7 @@ export const siteContent = {
       "Project iAppreciate is an annual flagship initiative by the Red Cross Youth Chapter at Nanyang Technological University. It is created to recognise and appreciate the often unseen contributions of migrant workers who help keep Singapore moving every day.",
       "The event brings together migrant worker participants, student volunteers, and community partners through appreciation activities, interactive booths, welfare initiatives, and simple moments of meaningful engagement. At its heart, the project is about creating a respectful space where gratitude is felt, shared, and remembered.",
     ],
-    image: "/images/highlights/about-photo.jpg",
+    image: assetPath("/images/highlights/about-photo.jpg"),
     callout: "",
   },
   whyItMatters: {
@@ -66,7 +67,7 @@ export const siteContent = {
     tag: "Highlights and Impact",
     title: "A sponsor-facing snapshot of the scale and character of the event.",
     note: "",
-    image: "/images/highlights/impact-photo-2.jpg",
+    image: assetPath("/images/highlights/impact-photo-2.jpg"),
     stats: [
       { value: "600+", label: "expected migrant worker participants" },
       { value: "100+", label: "student volunteers involved" },

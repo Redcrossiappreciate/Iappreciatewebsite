@@ -16,7 +16,7 @@ function HeroSection({ content }) {
 
   return (
     <section className="relative" id="top" ref={sectionRef}>
-      <div className="section-shell grid min-h-[calc(100vh-5rem)] items-center gap-14 pt-16 lg:grid-cols-[1.1fr_0.9fr] lg:pt-10">
+      <div className="section-shell grid min-h-[44rem] items-start gap-14 pt-10 sm:pt-12 lg:grid-cols-[1.1fr_0.9fr] lg:pt-14">
         <Reveal>
           <span className="section-tag">{content.eyebrow}</span>
           <h1 className="mt-6 max-w-3xl font-display text-5xl leading-[1.02] text-ink sm:text-6xl lg:text-[5.3rem]">
