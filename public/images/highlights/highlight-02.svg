@@ -1,0 +1,10 @@
+<svg width="1400" height="1040" viewBox="0 0 1400 1040" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="1040" rx="42" fill="#FFF9F8"/>
+  <circle cx="280" cy="210" r="170" fill="#F8DFDB"/>
+  <rect x="114" y="110" width="1172" height="820" rx="34" fill="white"/>
+  <rect x="200" y="194" width="1000" height="300" rx="28" fill="#FAE5E2"/>
+  <rect x="200" y="548" width="310" height="260" rx="24" fill="#FFF0EF"/>
+  <rect x="546" y="548" width="310" height="260" rx="24" fill="#FADFE0"/>
+  <rect x="892" y="548" width="308" height="260" rx="24" fill="#F7D7DA"/>
+  <text x="200" y="154" fill="#861226" font-family="Georgia, serif" font-size="42">Impact Image Placeholder</text>
+</svg>

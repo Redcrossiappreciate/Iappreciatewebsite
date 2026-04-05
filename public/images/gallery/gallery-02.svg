@@ -1,0 +1,10 @@
+<svg width="900" height="980" viewBox="0 0 900 980" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="980" rx="36" fill="#FFF8F7"/>
+  <circle cx="220" cy="180" r="150" fill="#F8DFDB"/>
+  <rect x="82" y="82" width="736" height="816" rx="28" fill="white"/>
+  <rect x="152" y="152" width="596" height="220" rx="24" fill="#FCEBE8"/>
+  <rect x="152" y="426" width="596" height="156" rx="24" fill="#FAE0E0"/>
+  <rect x="152" y="632" width="250" height="170" rx="22" fill="#FFF1F0"/>
+  <rect x="438" y="632" width="310" height="170" rx="22" fill="#F8DBDD"/>
+  <text x="152" y="120" fill="#861226" font-family="Georgia, serif" font-size="34">Gallery Placeholder 02</text>
+</svg>
